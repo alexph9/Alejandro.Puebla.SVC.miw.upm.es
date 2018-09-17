@@ -7,12 +7,12 @@
 
 #### Build Status
 ###### Master
-![Build Status](https://travis-ci.org/alexph9/Alejandro.Puebla.Holguin.SVC.miw.upm.es.svg?branch=master) 
+![Build Status](https://travis-ci.org/alexph9/Alejandro.Puebla.SVC.miw.upm.es.svg?branch=master) 
 ###### Develop
-![Build Status](https://travis-ci.org/alexph9/Alejandro.Puebla.Holguin.SVC.miw.upm.es.svg?branch=develop) 
+![Build Status](https://travis-ci.org/alexph9/Alejandro.Puebla.SVC.miw.upm.es.svg?branch=develop) 
 
 #### Quality Gate
-![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=alexph9_Alejandro.Puebla.Holguin.SVC.miw.upm.es&metric=alert_status)
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=alexph9_Alejandro.Puebla.SVC.miw.upm.es&metric=alert_status)
 
 ### Tecnologías necesarias
 * Java
