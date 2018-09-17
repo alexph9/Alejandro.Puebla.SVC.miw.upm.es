@@ -14,7 +14,6 @@
 #### Quality Gate
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=alexph9_Alejandro.Puebla.Holguin.SVC.miw.upm.es&metric=alert_status)
 
-
 ### Tecnologías necesarias
 * Java
 * Maven
