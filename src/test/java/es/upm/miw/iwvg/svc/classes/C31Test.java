@@ -20,4 +20,8 @@ public class C31Test {
     void testM2() {
         assertEquals("m2", c31.m2());
     }
+    @Test
+    void testMB() {
+        assertEquals("mB", c31.mB());
+    }
 }
